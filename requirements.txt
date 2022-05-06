@@ -3,3 +3,4 @@ scikit-learn
 requests
 jupyter
 jupyterlab
+matplotlib
